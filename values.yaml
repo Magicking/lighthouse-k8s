@@ -8,7 +8,7 @@ image:
   repository: sigp/lighthouse
   pullPolicy: IfNotPresent
 
-nameOverride: ""
+nameOverride: "lighthouse"
 fullnameOverride: ""
 
 service:
